@@ -1,7 +1,7 @@
 //Simple 1/4" Tape Splicing Block 
 //openSCAD (.scad)
 //Joe Plazak, 2015,  
-//CC-Share-Alike
+//This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 United States License.
 
 difference() {
     
